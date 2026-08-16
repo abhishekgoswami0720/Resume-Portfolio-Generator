@@ -1,0 +1,8 @@
+main.py 
+requirements.txt 
+resume.txt 
+template.html 
+.env.example 
+.gitignore 
+venv/ 
+__pycache__/
