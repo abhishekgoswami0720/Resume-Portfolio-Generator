@@ -1,0 +1,31 @@
+Name: Himanshu Rautela
+Headline: Aspiring AI/ML Engineer
+
+Summary:
+Second year B.Tech AIML student passionate about machine learning and web development,
+with hands-on project experience in Python and data analysis.
+
+Skills:
+Python, JavaScript, HTML, CSS, SQL, Machine Learning, Git
+
+Education:
+B.Tech in Computer Science, GLA University, 2022 - 2026
+
+Experience:
+AI/ML Intern, XYZ Pvt Ltd, June 2025 - August 2025
+- Built a sales dashboard using Python and Streamlit
+- Automated data cleaning pipelines
+
+Projects:
+Live Sales Dashboard - Built an interactive dashboard using Python, Pandas, and Plotly
+AI Portfolio Generator - Used Gemini API to auto-generate portfolio websites from resumes
+
+Achievements:
+Winner, College Hackathon 2025
+Certified in Python for Data Science (Coursera)
+
+Contact:
+Email: himanshu.rautela@email.com
+LinkedIn: https://www.linkedin.com/in/himanshu-rautela-77874b398/
+GitHub: https://github.com/Himanshu-GenAI
+
